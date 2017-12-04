@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512196107 source:c:\users\public\videos\sample videos\examen final primer semestre 2\main.cpp
+	<iostream>
+	<IntegerArray.h>
+
+1512196160 c:\users\public\videos\sample videos\examen final primer semestre 2\include\integerarray.h
+
+1512196160 source:c:\users\public\videos\sample videos\examen final primer semestre 2\src\integerarray.cpp
+	"IntegerArray.h"
+

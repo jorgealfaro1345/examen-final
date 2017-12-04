@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1512191541 source:c:\users\public\videos\sample videos\examen final primer semestre\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+
+1512191780 c:\users\public\videos\sample videos\examen final primer semestre\include\animal.h
+	<string>
+
+1512193274 c:\users\public\videos\sample videos\examen final primer semestre\include\perro.h
+	"Animal.h"
+
+1512191827 c:\users\public\videos\sample videos\examen final primer semestre\include\gato.h
+	"Animal.h"
+	<string>
+
+1512193274 source:c:\users\public\videos\sample videos\examen final primer semestre\src\animal.cpp
+	"Animal.h"
+	<string>
+
+1512193294 source:c:\users\public\videos\sample videos\examen final primer semestre\src\gato.cpp
+	"Gato.h"
+	<string>
+
+1512193274 source:c:\users\public\videos\sample videos\examen final primer semestre\src\perro.cpp
+	"Perro.h"
+	"Animal.h"
+	<string>
+
+1512411688 source:c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+
+1512411817 c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\include\animal.h
+	<string>
+
+1512411817 c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\include\perro.h
+	"Animal.h"
+
+1512411817 c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\include\gato.h
+	"Animal.h"
+	<string>
+
+1512411828 source:c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\src\animal.cpp
+	"Animal.h"
+	<string>
+
+1512411865 source:c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\src\gato.cpp
+	"Gato.h"
+	<string>
+
+1512411871 source:c:\users\public\videos\sample videos\examen final 1\examen final primer semestre\src\perro.cpp
+	"Perro.h"
+	"Animal.h"
+	<string>
+

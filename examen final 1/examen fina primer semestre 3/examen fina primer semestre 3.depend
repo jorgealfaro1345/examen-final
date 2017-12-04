@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512230050 source:c:\users\public\videos\sample videos\examen fina primer semestre 3\main.cpp
+	<iostream>
+	"USCurrency.h"
+
+1512229107 c:\users\public\videos\sample videos\examen fina primer semestre 3\include\uscurrency.h
+
+1512230064 source:c:\users\public\videos\sample videos\examen fina primer semestre 3\src\uscurrency.cpp
+	"USCurrency.h"
+
